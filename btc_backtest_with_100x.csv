@@ -1,0 +1,5 @@
+Action,Type,Time,Price,Profit
+Buy,Long,2024-12-22,95087.75,
+Sell,Liquidated,2024-12-27,94171.89,-18750.0
+Buy,Long,2025-06-05,101570.2,
+Sell,Long Exit,2025-06-09,110301.15,214899.4
